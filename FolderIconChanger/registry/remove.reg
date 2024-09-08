@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\FolderIconChanger]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\FolderIconChanger\command]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\FolderIconChanger]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\FolderIconChanger\command]

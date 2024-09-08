@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\FolderIconChanger]
+@="Change folder icon"
+"Extended"=""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\FolderIconChanger\command]
+@="\"[TARGETDIR]FolderIconChanger.exe\" \"%V\""
+
+
+[HKEY_CLASSES_ROOT\Directory\shell\FolderIconChanger]
+@="Change folder icon"
+"Extended"=""
+
+[HKEY_CLASSES_ROOT\Directory\shell\FolderIconChanger\command]
+@="\"[TARGETDIR]FolderIconChanger.exe\" \"%V\""
